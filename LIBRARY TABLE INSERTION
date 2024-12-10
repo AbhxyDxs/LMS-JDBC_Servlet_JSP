@@ -1,0 +1,5 @@
+INSERT INTO LIBRARY VALUES ('B01','Ikigai','Self-Help',399);
+INSERT INTO LIBRARY VALUES ('B02','Atomic Habits','Self-Help',499);
+INSERT INTO LIBRARY VALUES ('B03','It Ends With Us','Fiction',699);
+INSERT INTO LIBRARY VALUES ('B04','Psychology of Money','Self-Help',399);
+INSERT INTO LIBRARY VALUES ('B05','The Outsider','Fiction',599);
